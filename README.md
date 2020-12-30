@@ -12,4 +12,4 @@ GitHubga o'tish
 
 O'tib oldingiz degan umidda 😀 davom etamiz. Sizda ushbu saytga ilk marotaba tashrif buyurgan bo'lsangiz bu yerdan SignUp degan bo'limga o'tib olishingiz kerak bo'ladi.
 
-Endi
+
